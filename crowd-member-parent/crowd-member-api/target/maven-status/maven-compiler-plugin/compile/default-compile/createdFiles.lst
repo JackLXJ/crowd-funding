@@ -1,0 +1,2 @@
+com\muzimz\crowd\api\MysqlRemoteService.class
+com\muzimz\crowd\api\RedisRemoteService.class

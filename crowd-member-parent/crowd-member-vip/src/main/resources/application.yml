@@ -1,0 +1,28 @@
+server:
+  port: 4000
+spring:
+  application:
+    name: muzimz-crowd-vip
+  redis:
+    host: 115.29.149.30
+  session:
+    store-type: redis
+  thymeleaf:
+    prefix: classpath:/templates/
+    suffix: .html
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:1000/eureka
+
+short:
+  message:
+    app-code: 4c3da3ca13a34507b48ebf34ffd367e6
+    host: https://feginesms.market.alicloudapi.com
+    method: GET
+    path: /codeNotice
+    sign: 1
+    skin: 10
+ribbon:
+  ReadTimeout: 10000
+  ConnectTimeout: 10000

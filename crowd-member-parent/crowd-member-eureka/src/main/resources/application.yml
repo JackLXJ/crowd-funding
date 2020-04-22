@@ -1,0 +1,15 @@
+server:
+  port: 1000
+spring:
+  application:
+    name: muzimz-crowd-eureka
+eureka:
+  server:
+    enable-self-preservation: false
+  instance:
+    hostname: localhost
+  client:
+    register-with-eureka: false # 自己不在注册中心中注册
+    fetch-registry: false
+    service-url:
+      defaultZone: http://${eureka.instance.hostname}:${server.port}/eureka/

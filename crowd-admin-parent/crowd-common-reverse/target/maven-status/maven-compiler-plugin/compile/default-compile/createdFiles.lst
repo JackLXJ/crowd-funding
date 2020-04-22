@@ -1,0 +1,6 @@
+com\muzimz\crowd\entity\AdminExample$Criteria.class
+com\muzimz\crowd\entity\AdminExample$GeneratedCriteria.class
+com\muzimz\crowd\entity\AdminExample$Criterion.class
+com\muzimz\crowd\mapper\AdminMapper.class
+com\muzimz\crowd\entity\Admin.class
+com\muzimz\crowd\entity\AdminExample.class

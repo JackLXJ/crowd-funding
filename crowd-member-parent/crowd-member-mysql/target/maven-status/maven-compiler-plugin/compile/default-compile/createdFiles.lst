@@ -1,0 +1,5 @@
+com\muzimz\crowd\MysqlApplicaton.class
+com\muzimz\crowd\mapper\MemberPOMapper.class
+com\muzimz\crowd\handler\MemberProviderHandler.class
+com\muzimz\crowd\service\impl\MemberServiceImpl.class
+com\muzimz\crowd\service\MemberService.class

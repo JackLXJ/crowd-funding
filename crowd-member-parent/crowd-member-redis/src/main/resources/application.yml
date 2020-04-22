@@ -1,0 +1,11 @@
+server:
+  port: 3000
+spring:
+  application:
+    name: muzimz-crowd-redis
+  redis:
+    host: 115.29.149.30
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:1000/eureka

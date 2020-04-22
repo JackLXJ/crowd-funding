@@ -1,0 +1,6 @@
+META-INF\spring-configuration-metadata.json
+com\muzimz\crowd\config\ShortMessageProperties.class
+com\muzimz\crowd\VipApplication.class
+com\muzimz\crowd\handler\MemberHandler.class
+com\muzimz\crowd\handler\PortalHandler.class
+com\muzimz\crowd\config\CrowdWebMvcConfig.class

@@ -1,0 +1,30 @@
+server:
+  port: 5000
+spring:
+  application:
+    name: muzimz-crowd-project
+  thymeleaf:
+    prefix: classpath:/templates/
+    suffix: .html
+  redis:
+    host: 115.29.149.30
+  session:
+    store-type: redis
+  servlet:
+    multipart:
+      max-request-size: 10MB
+      max-file-size: 10MB
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:1000/eureka
+  instance:
+    prefer-ip-address: true
+#aliyun:
+#  oss:
+#    access-key-id: LTAI4FtyK7WcqxaiE9ttukNi
+#    access-key-secret: 43OFOgMghjsitNsNlTGqcpPGgyzqgU
+#    bucket-domain: http://atguigu190830.oss-cn-shenzhen.aliyuncs.com
+#    bucket-name: atguigu190830
+#    end-point: http://oss-cn-shenzhen.aliyuncs.com
