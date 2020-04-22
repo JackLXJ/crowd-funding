@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="crowd-admin-webui:war">
+    <output-path>$PROJECT_DIR$/crowd-admin-parent/crowd-admin-webui/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>crowd-admin-webui</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="crowd-admin-webui-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="crowd-admin-webui:war exploded" />
+    </root>
+  </artifact>
+</component>

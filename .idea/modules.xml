@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/crowd-member-parent/corwd-member-zuul/corwd-member-zuul.iml" filepath="$PROJECT_DIR$/crowd-member-parent/corwd-member-zuul/corwd-member-zuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/crowd-admin-parent/crowd-admin-component/crowd-admin-component.iml" filepath="$PROJECT_DIR$/crowd-admin-parent/crowd-admin-component/crowd-admin-component.iml" />
+      <module fileurl="file://$PROJECT_DIR$/crowd-admin-parent/crowd-admin-entity/crowd-admin-entity.iml" filepath="$PROJECT_DIR$/crowd-admin-parent/crowd-admin-entity/crowd-admin-entity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/crowd-admin-parent/crowd-admin-parent.iml" filepath="$PROJECT_DIR$/crowd-admin-parent/crowd-admin-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/crowd-admin-parent/crowd-admin-webui/crowd-admin-webui.iml" filepath="$PROJECT_DIR$/crowd-admin-parent/crowd-admin-webui/crowd-admin-webui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/crowd-admin-parent/crowd-common-reverse/crowd-common-reverse.iml" filepath="$PROJECT_DIR$/crowd-admin-parent/crowd-common-reverse/crowd-common-reverse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/crowd-admin-parent/crowd-common-util/crowd-common-util.iml" filepath="$PROJECT_DIR$/crowd-admin-parent/crowd-common-util/crowd-common-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/crowd-funding.iml" filepath="$PROJECT_DIR$/.idea/crowd-funding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/crowd-member-parent/crowd-member-api/crowd-member-api.iml" filepath="$PROJECT_DIR$/crowd-member-parent/crowd-member-api/crowd-member-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/crowd-member-parent/crowd-member-entity/crowd-member-entity.iml" filepath="$PROJECT_DIR$/crowd-member-parent/crowd-member-entity/crowd-member-entity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/crowd-member-parent/crowd-member-eureka/crowd-member-eureka.iml" filepath="$PROJECT_DIR$/crowd-member-parent/crowd-member-eureka/crowd-member-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/crowd-member-parent/crowd-member-mysql/crowd-member-mysql.iml" filepath="$PROJECT_DIR$/crowd-member-parent/crowd-member-mysql/crowd-member-mysql.iml" />
+      <module fileurl="file://$PROJECT_DIR$/crowd-member-parent/crowd-member-order/crowd-member-order.iml" filepath="$PROJECT_DIR$/crowd-member-parent/crowd-member-order/crowd-member-order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/crowd-member-parent/crowd-member-parent.iml" filepath="$PROJECT_DIR$/crowd-member-parent/crowd-member-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/crowd-member-parent/crowd-member-pay/crowd-member-pay.iml" filepath="$PROJECT_DIR$/crowd-member-parent/crowd-member-pay/crowd-member-pay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/crowd-member-parent/crowd-member-project/crowd-member-project.iml" filepath="$PROJECT_DIR$/crowd-member-parent/crowd-member-project/crowd-member-project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/crowd-member-parent/crowd-member-redis/crowd-member-redis.iml" filepath="$PROJECT_DIR$/crowd-member-parent/crowd-member-redis/crowd-member-redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/crowd-member-parent/crowd-member-vip/crowd-member-vip.iml" filepath="$PROJECT_DIR$/crowd-member-parent/crowd-member-vip/crowd-member-vip.iml" />
+    </modules>
+  </component>
+</project>

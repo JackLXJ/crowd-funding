@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <option name="USE_RELEASE_OPTION" value="false" />
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="crowd-member-pay" />
+        <module name="crowd-member-api" />
+        <module name="crowd-common-util" />
+        <module name="corwd-member-zuul" />
+        <module name="crowd-member-eureka" />
+        <module name="crowd-admin-webui" />
+        <module name="crowd-admin-component" />
+        <module name="crowd-member-project" />
+        <module name="crowd-member-entity" />
+        <module name="crowd-member-mysql" />
+        <module name="crowd-member-vip" />
+        <module name="crowd-member-order" />
+        <module name="crowd-admin-entity" />
+        <module name="crowd-member-redis" />
+        <module name="crowd-common-reverse" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="corwd-member-zuul" target="1.8" />
+      <module name="crowd-admin-component" target="1.8" />
+      <module name="crowd-admin-entity" target="1.5" />
+      <module name="crowd-admin-parent" target="1.5" />
+      <module name="crowd-admin-webui" target="1.8" />
+      <module name="crowd-common-reverse" target="1.5" />
+      <module name="crowd-common-util" target="1.5" />
+      <module name="crowd-member-api" target="1.8" />
+      <module name="crowd-member-entity" target="1.8" />
+      <module name="crowd-member-eureka" target="1.8" />
+      <module name="crowd-member-mysql" target="1.8" />
+      <module name="crowd-member-order" target="1.8" />
+      <module name="crowd-member-parent" target="1.8" />
+      <module name="crowd-member-pay" target="1.8" />
+      <module name="crowd-member-project" target="1.8" />
+      <module name="crowd-member-redis" target="1.8" />
+      <module name="crowd-member-vip" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="DEBUGGING_INFO" value="false" />
+  </component>
+</project>
