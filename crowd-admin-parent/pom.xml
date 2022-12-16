@@ -31,7 +31,7 @@
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <atguigu.spring.version>4.3.20.RELEASE</atguigu.spring.version>
+    <atguigu.spring.version>5.2.20.RELEASE</atguigu.spring.version>
     <atguigu.spring.security.version>4.2.10.RELEASE</atguigu.spring.security.version>
   </properties>
 
